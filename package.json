@@ -1,7 +1,7 @@
 {
   "name": "com.noong2.statsystem",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "displayName": "Noong2 Stat System",
   "description": "Simple stat system for Unity game development",
-  "unity": "2019.4"
+  "unity": "6000.0"
 }
